@@ -24,6 +24,11 @@ A hygrometer cover with dual mounting options (standing or hanging). Single-axis
 
 For the axis, use a piece of 1.75 mm filament.
 
+## Files Included
+
+[HygrometerStandBase.stl](stl/HygrometerStandBase.stl)
+[HygrometerStandBody.stl](stl/HygrometerStandBody.stl)
+
 ## License
 
 CC BY-NC-SA
