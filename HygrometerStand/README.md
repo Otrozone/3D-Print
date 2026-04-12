@@ -1,6 +1,8 @@
 # Hygrometer stand
 
-A hygrometer cover with dual mounting options (standing or hanging). Single-axis design allows easy up-and-down positioning.
+A hygrometer cover with dual mounting options (standing or hanging). 
+
+Designed for [this product](https://www.aliexpress.com/item/1005008500732039.html). Single-axis design allows easy up-and-down positioning.
 
 ![hygrometer_stand_mount.jpg](images/hygrometer_stand_mount.jpg)
 
