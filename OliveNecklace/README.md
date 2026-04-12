@@ -4,6 +4,8 @@ Minimalist and clean design. Top hole allows easy attachment to a cord or chain.
 
 Designed for single-extruder printers (without multimaterial upgrade). Switch filament for the top layers. Compact, durable, and easy to print, this pendant is ideal for quick prints, personalization, or as a simple gift.
 
+[olive_neckle.jpg](images/olive_neckle.jpg)
+
 ## Print Settings
 
 | Setting | Value |
